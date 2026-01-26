@@ -25,9 +25,9 @@ https://www.kaggle.com/datasets/abhinavrama22/archaeomind-images
 ## Results
 | Metric | Accuracy |
 |------|----------|
-| Training | 95% |
-| Validation | 81.7% |
-| Test | 87% |
+| Training | 94.93% |
+| Validation | 81.18% |
+| Test | 88.55% |
 
 The model demonstrates good generalization performance with mild overfitting due to limited dataset size.
 
